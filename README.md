@@ -1,2 +1,3 @@
 # SGS.Skill_section
-神杀技能
+部分神杀技能整理
+
